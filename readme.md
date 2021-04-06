@@ -1,8 +1,8 @@
 # Get Github Profile Information.
 
+### Installation
 ```python
 pip install -r requirements.txt
-python main.py
 ```
 ### Demo
 Inside shell
